@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+transformers
+torch
+pydantic
+pytest
+httpx
+pytest-asyncio
